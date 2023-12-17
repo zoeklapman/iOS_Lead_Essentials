@@ -1,6 +1,3 @@
-[submodule "Prototype"]
-	path = Prototype
-	url = git@github.com:zoeklapman/Prototype.git
 [submodule "EssentialFeed"]
 	path = EssentialFeed
 	url = git@github.com:zoeklapman/EssentialFeed.git
