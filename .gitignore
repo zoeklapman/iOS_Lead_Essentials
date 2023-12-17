@@ -1,0 +1,5 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore user states for workspace
+*.xcuserstate
