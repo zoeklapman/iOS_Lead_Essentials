@@ -1,6 +1,6 @@
 # iOS_Lead_Essentials
 
-Working through the [iOS Essentials Course](https://academy.essentialdeveloper.com/) to learn more advanced iOS skills with Swift.
+Working through the [iOS Essentials Course](https://academy.essentialdeveloper.com/) through the prototype section to learn more advanced iOS skills with Swift.
 
 The main skills I personally improved upon during this learning course includes...
 * Unit Testing
